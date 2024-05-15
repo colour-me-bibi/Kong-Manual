@@ -13,6 +13,7 @@
   - [Allergies and Health](#allergies-and-health)
   - [Ear and Skin Care](#ear-and-skin-care)
   - [Supplements](#supplements)
+  - [Car Rides](#car-rides)
 - [Commands](#commands)
 - [Safety](#safety)
 - [Socialization](#socialization)
@@ -62,6 +63,11 @@
 - **FortiFlora:** 1 packet daily.
 - **Salmon Oil:** Add to his lunch.
 - **Dasuquin:** 1 soft chew given in the morning.
+
+### Car Rides:
+- **Motion Sickness:** He does not get motion sickness.
+- **Getting In/Out:** He needs assistance getting into the car but can get out on his own.
+- **Temperature and Air:** Ensure the car is cool. He loves having the windows down or cracked to let the wind flow behind his ears.
 
 ## Commands:
 - **"Here":** To call him over.
