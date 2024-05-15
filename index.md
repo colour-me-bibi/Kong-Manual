@@ -2,6 +2,23 @@
 
 ![Kong's Care Manual](./cover.webp)
 
+## Table of Contents
+- [General Info](#general-info)
+- [Daily Routine](#daily-routine)
+  - [Feeding Schedule](#feeding-schedule)
+  - [Walks and Exercise](#walks-and-exercise)
+  - [Water](#water)
+- [Special Instructions](#special-instructions)
+  - [Vocalization](#vocalization)
+  - [Allergies and Health](#allergies-and-health)
+  - [Ear and Skin Care](#ear-and-skin-care)
+  - [Supplements](#supplements)
+- [Commands](#commands)
+- [Safety](#safety)
+- [Socialization](#socialization)
+- [Comfort](#comfort)
+- [Do Not](#do-not)
+
 ## General Info:
 - **Name:** Kong
 - **Breed:** St. Bernard
